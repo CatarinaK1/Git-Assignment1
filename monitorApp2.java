@@ -6,6 +6,8 @@ public class monitorApp2 {
 		Monitor monitor1 = new Monitor();
 		monitor1.start();
 		Monitor monitor2 = new Monitor();
+		
+		// Creating new functions
 
 		if (monitor1.isOn) {
 			System.out.println("Monitor is on");
