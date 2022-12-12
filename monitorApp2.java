@@ -1,7 +1,7 @@
 public class monitorApp2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 
 		Monitor monitor1 = new Monitor();
 		monitor1.start();
@@ -17,7 +17,9 @@ public class monitorApp2 {
 		} else {
 			System.out.println("monitor2 is off");
 		}
+
 	}
+
 }
 
 class Monitor {
