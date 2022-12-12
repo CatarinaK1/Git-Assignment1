@@ -17,9 +17,7 @@ public class monitorApp2 {
 		} else {
 			System.out.println("monitor2 is off");
 		}
-
 	}
-
 }
 
 class Monitor {
